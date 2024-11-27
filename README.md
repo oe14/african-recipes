@@ -1,1 +1,1 @@
-""# african recipes" 
+### this is a website that displays some african cooking recipes. [Live preview](https://oe14.github.io/african-recipes/)
